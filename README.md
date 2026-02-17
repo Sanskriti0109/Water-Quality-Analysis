@@ -404,8 +404,7 @@ jupyter notebook water_quality_analysis.ipynb
 2. Nefla et al. (2026). *ML algorithms for pollution source evaluation in China's Luoqing River.*
 3. Zhang et al. (2026). *Ensemble models for pollution zone prediction in Chinese river basins.*
 4. Brisbane City Council Open Data — Water Quality Monitoring Program
-5. Pedregosa et al. (2011). *Scikit-learn: Machine Learning in Python.* JMLR 12, pp. 2825–2830.
-6. Chen & Guestrin (2016). *XGBoost: A Scalable Tree Boosting System.* KDD 2016.
+
 
 ---
 
