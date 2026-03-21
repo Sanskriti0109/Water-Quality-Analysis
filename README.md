@@ -396,14 +396,6 @@ jupyter notebook water_quality_analysis.ipynb
 
 4. Run all cells in order — the notebook is structured to flow from data loading → EDA → modelling → evaluation.
 
----
-
-## References
-
-1. Chukwuemeka et al. (2026). *Hybrid AI model for water quality prediction in Nigeria's Niger Delta.*
-2. Nefla et al. (2026). *ML algorithms for pollution source evaluation in China's Luoqing River.*
-3. Zhang et al. (2026). *Ensemble models for pollution zone prediction in Chinese river basins.*
-4. Brisbane City Council Open Data — Water Quality Monitoring Program
 
 
 ---
