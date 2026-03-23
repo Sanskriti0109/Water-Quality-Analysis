@@ -26,7 +26,7 @@
 - [Literature Review](#literature-review)
 - [Research Gap & Innovation](#research-gap--innovation)
 - [How to Run](#how-to-run)
-- [References](#references)
+  
 
 ---
 
