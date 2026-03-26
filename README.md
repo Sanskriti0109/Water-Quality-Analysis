@@ -7,6 +7,7 @@
 > **Live Site:** [pp-eta-orcin.vercel.app](https://pp-eta-orcin.vercel.app/)
 
 ---
+<img width="1164" height="660" alt="dash" src="https://github.com/user-attachments/assets/4f10ea43-7fbe-4e33-82a8-1e538b40ba38" />
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
